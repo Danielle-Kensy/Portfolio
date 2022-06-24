@@ -26,7 +26,7 @@ ___
 </BR>
   <div align = "center">
 
-    Coming soon some cool stuf and updates in this little project :)
+    Coming soon some cool stuf and updates on this little project :)
 
 </div>
 </BR>
